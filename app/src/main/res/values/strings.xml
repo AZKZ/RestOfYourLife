@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">REST OF YOUR LIFE</string>
+    <string name="gender_type_male">男性</string>
+    <string name="gender_type_female">女性</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pick_date">生年月日</string>
+</resources>
